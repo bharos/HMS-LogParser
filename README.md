@@ -1,8 +1,5 @@
 # HMS-LogParser
 
-
- * Accepts 2 command-line arguments : 1. Path to HMS log file, 2. Path to csv file where
- * parsed log information need to be written to. Parses the HMS log for PerfLogger entries,
  * Accepts 3 command-line arguments :
  *      1. Path to HMS log file (Required).
  *      2. Path to csv file where parsed log information need to be written to (Required).
