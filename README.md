@@ -1,6 +1,6 @@
 # HMS-LogParser
 
-/**
+
  * Accepts 2 command-line arguments : 1. Path to HMS log file, 2. Path to csv file where
  * parsed log information need to be written to. Parses the HMS log for PerfLogger entries,
  * Accepts 3 command-line arguments :
@@ -14,4 +14,4 @@
  * Now, sorts the entries and finds the maximum concurrency noticed in the logs
  * based on the stasrt and end times of API calls for each method.
  * based on the start and end times of API calls for each method.
- */
+
